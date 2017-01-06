@@ -40,7 +40,7 @@ We have to create a repository for a new project on BitBucket .
 
 This whole procedure creates a repository on bitbucket for us same like we created a folder on our operating system  for us .
 But hold on see our repository is empty no data or file is in it if we see because same like creating a new folder it is empty. 
-Now bitbucet give's us two ways to use this repository .
+Now bitbucet give's us two options to use this repository .
 
 ## 1st Option: 
 
@@ -62,6 +62,7 @@ Use these commands while first you have to go on the directory where you want to
 
 - git push -u origin master
 
+Through these commands we first cloning our repository on our desired folder then we are creating a a simple README.md file and then we are sending our file to server which is commmitting file to server. In this process you may asked to provide your credientials like your user name or password so provide those which you used on creation of the directory. 
 
 ## 2nd Option:
 
