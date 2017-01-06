@@ -107,7 +107,6 @@ After the above process we have a repository and same its clone we have in our s
 - 'git log' we use this to check all the logs, details of the commits. 
 
 - 'git status' we use this to check the recent status.
-fffffff
 
 
 
