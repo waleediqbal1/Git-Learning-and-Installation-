@@ -12,4 +12,4 @@ We have some techniques or ways through which we can control versions but most o
 
 ## Drop box:
 
-- Drop box periodically save the versions of the files and we can see the previous version by using history. But drop box save these versions for only 30 days. So it have some limitation. Drop box can do proper editor work not like Google docs. Can’t use offline too.
+- Drop box periodically save the versions of the files and we can see the previous version by using history. But drop box save these versions for only 30 days. So it have some limitations. We can’t use it offline too. But yes drop box can do proper editor work.
