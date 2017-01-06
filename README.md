@@ -99,6 +99,12 @@ This whole process send our data or you can say copy and here we use appropiate 
 After that we can see the status of the git by using "git status" command. 
 Now if you go on the repository and select your project you will see your commit with specififc id there and you can see what you commit and when too there.
 
+## Other Git Commands
+
+After the above process we have a repository and same its clone we have in our specified folder. Now we can use some other commands to do different work like 'git log' we use this to check all the logs, details of the commits. 
+'git status' we use this to check the recent status.
+
+
 
 
 
