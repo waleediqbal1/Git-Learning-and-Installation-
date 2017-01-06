@@ -44,7 +44,8 @@ Now bitbucet give's us two ways to use this repository .
 
 - We clone(copy) this repository on our machine for that we select ( I have an existing project) .
 
-- We first create a folder in our operating systema and save some data in form of files in it then save it to server means our newly created repository. This we can done by pushing here we called it commit. So we can commit our data on our repository.For that we select (I'm starting from scratch) . 
+- We first create a folder in our operating systema and save some data in form of files in it then save it to server means our newly created repository. This we can done by pushing here we called it commit. So we can commit our data on our repository. For that we select (I'm starting from scratch) . 
+
 
 
 
