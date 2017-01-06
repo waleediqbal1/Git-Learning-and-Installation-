@@ -58,7 +58,7 @@ Use these commands in cmd or Terminal while first you have to go on the director
 - Now use command which you got on your gitbucket website now. It should be like 'https://xyz@bitbucket.org/xyz/repositoryName.git'( In this process you may asked to provide your credientials like your user name or password so provide those which you used on creation of the directory).
 
 
-- use second command now from github website now.
+- use second command from github website now.
 
 - echo "# My project's README" >> README.md
 
