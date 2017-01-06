@@ -52,7 +52,7 @@ Use these commands in cmd or Terminal while first you have to go on the director
 
 - First Go on the root directory of the folder where you want to clone(copy) your repository using cmd or Terminal on your operating system. Like i use cd on windows to my root directory. 
 
--  Ist command which you got on your browser window. It should be like https://xyz@bitbucket.org/xyz/repositoryName.git
+-  Ist command which you got on your gitbucket website now. It should be like https://xyz@bitbucket.org/xyz/repositoryName.git
 
 - cd latest_repository
 
