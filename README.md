@@ -24,4 +24,19 @@ In upper both the approaches to use as version control doesn’t helps us in qui
 
 ##Repository Creation
 
-- We have to create a repository for a new project on [Bitbucket](https://bitbucket.org) .
+We have to create a repository for a new project on BitBucket .
+
+- Go on  [Bitbucket](https://bitbucket.org).
+
+- Select Repositories from top nevigation bar and from drop down select Create Repository.
+
+- Give name and check Access Level if you want to make ur repository private (i select private because i want to make my repository private).
+
+- Select Repository type as Git.
+
+- Click Create repository.
+
+
+
+
+
