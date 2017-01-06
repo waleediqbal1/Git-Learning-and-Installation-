@@ -22,7 +22,7 @@ In upper both the approaches to use as version control doesn’t helps us in qui
 
 ## Git Installation's Commands and implementation
 
-##Repository Creation
+## Repository Creation
 
 We have to create a repository for a new project on BitBucket .
 
@@ -35,6 +35,16 @@ We have to create a repository for a new project on BitBucket .
 - Select Repository type as Git.
 
 - Click Create repository.
+
+## Clone Repository
+
+- As we started our work with strach and we made our repository first so select option " I'm starting from scratch " from your window now.
+
+- After that we have got some commands to clone (copy) the git repository on our system whether we have Windows or Linux based Operating system. 
+
+- Open your command prompt if you are on windows and terminal if you are on Linux. 
+
+- Go to your that folder where you want to clone (copy) your repository using your cmd or terminal. (I am using windows so use cd command to move on the required folder).
 
 
 
