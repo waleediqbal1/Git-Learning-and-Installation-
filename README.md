@@ -28,6 +28,8 @@ We have to create a repository for a new project on BitBucket .
 
 - Go on  [Bitbucket](https://bitbucket.org).
 
+- Create account on it first if you don't have already.
+
 - Select Repositories from top nevigation bar and from drop down select Create Repository.
 
 - Give name and check Access Level if you want to make ur repository private (i select private because i want to make my repository private).
@@ -36,15 +38,7 @@ We have to create a repository for a new project on BitBucket .
 
 - Click Create repository.
 
-## Clone Repository
 
-- As we started our work with strach and we made our repository first so select option " I'm starting from scratch " from your window now.
-
-- After that we have got some commands to clone (copy) the git repository on our system whether we have Windows or Linux based Operating system. 
-
-- Open your command prompt if you are on windows and terminal if you are on Linux. 
-
-- Go to your that folder where you want to clone (copy) your repository using your cmd or terminal. (I am using windows so use cd command to move on the required folder).
 
 
 
