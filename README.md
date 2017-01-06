@@ -44,6 +44,23 @@ Now bitbucet give's us two ways to use this repository .
 
 - We clone(copy) this repository on our machine for that we have to select ( I'm starting from scratch ) from gitbucket.
 
+## I'm starting from scratch
+
+Use these commands while first you have to go on the directory where you want to clone(copy) your repository.
+
+- git clone ...... Ist command which you got on your browser window. It should be like https://xyz@bitbucket.org/xyz/repositoryName.git
+
+- cd latest_repository
+
+- echo "# My project's README" >> README.md
+
+- git add README.md
+
+- git commit -m "Initial commit
+
+- git push -u origin master
+
+
 
 - We first create a folder in our operating system and save some data in form of files in it then save it to server means our newly created repository and this we can do by 'pushing' called as 'commit'. So we can commit our data on our repository. For that we select (I have an existing project) . 
 
