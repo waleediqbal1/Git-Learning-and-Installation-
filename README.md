@@ -50,7 +50,9 @@ We clone(copy) this repository on our machine for that we have to select ( I'm s
 
 Use these commands in cmd or Terminal while first you have to go on the directory where you want to clone(copy) your repository in your operating syatem.
 
-- git clone ...... Ist command which you got on your browser window. It should be like https://xyz@bitbucket.org/xyz/repositoryName.git
+- First Go on the root directory of the folder where you want to clone(copy) your repository using cmd or Terminal on your operating system. Like i use cd on windows to my root directory. 
+
+-  Ist command which you got on your browser window. It should be like https://xyz@bitbucket.org/xyz/repositoryName.git
 
 - cd latest_repository
 
