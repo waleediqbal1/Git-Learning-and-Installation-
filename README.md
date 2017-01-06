@@ -44,6 +44,7 @@ Now bitbucet give's us two ways to use this repository .
 
 - We clone(copy) this repository on our machine for that we have to select ( I'm starting from scratch ) from gitbucket.
 
+
 - We first create a folder in our operating system and save some data in form of files in it then save it to server means our newly created repository and this we can do by 'pushing' called as 'commit'. So we can commit our data on our repository. For that we select (I have an existing project) . 
 
 ## I have an existing project
@@ -69,7 +70,8 @@ I personally use this approach because for me ts little easy approach.
 Origin word we use because on creation we have not changesd the origin to any other name if you changed that before then you have to use the same name here too.
 This whole process send our data or you can say copy and here we use appropiate word 'commit' our data on our created repository on the gitbucket. 
 After that we can see the status of the git by using "git status" command. 
-Now if you go on the repository and select your project you will see your commit with specififc id there and you can see what you commit and when too there. 
+Now if you go on the repository and select your project you will see your commit with specififc id there and you can see what you commit and when too there.
+
 
 
 
