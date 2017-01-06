@@ -50,9 +50,12 @@ We clone(copy) this repository on our machine for that we have to select ( I'm s
 
 Use these commands in cmd or Terminal while first you have to go on the directory where you want to clone(copy) your repository in your operating syatem.
 
+
 - First Go on the root directory of the folder where you want to clone(copy) your repository using cmd or Terminal on your operating system. Like i use cd on windows to my root directory. e.g  'cd C:\Users\usr_Name\Desktop\myfolder'
 
--  Ist command which you got on your gitbucket website now. It should be like 'https://xyz@bitbucket.org/xyz/repositoryName.git'( In this process you may asked to provide your credientials like your user name or password so provide those which you used on creation of the directory).
+- First initialize the git use git init.
+
+- Now use command which you got on your gitbucket website now. It should be like 'https://xyz@bitbucket.org/xyz/repositoryName.git'( In this process you may asked to provide your credientials like your user name or password so provide those which you used on creation of the directory).
 
 
 - use second command now from github website now.
