@@ -10,5 +10,6 @@ We will learn here the basics about git & github. After that we will learn how t
 
 We have some techniques or ways through which we can control versions but most of them have some draw backs and on the same time Git give us opportunity to control the version in quite efficient way that’s why we like to use that for example
 
-- Drop box
-Drop box periodically save the versions of the files and we can see the previous version by using history. But drop box save these versions for only 30 days. So it have some limitation. Drop box can do proper editor work not like Google docs. Can’t use offline too.
+## Drop box:
+
+- Drop box periodically save the versions of the files and we can see the previous version by using history. But drop box save these versions for only 30 days. So it have some limitation. Drop box can do proper editor work not like Google docs. Can’t use offline too.
