@@ -32,14 +32,14 @@ We have to create a repository for a new project on BitBucket .
 
 - Select Repositories from top nevigation bar and from drop down select Create Repository.
 
-- Give name and check Access Level if you want to make your repository private (i select private because i want to make my repository private).
+- Give Repository Name and check Access Level if you want to make your repository private (i select private because i want to make my repository private).
 
 - Select Repository type as Git.
 
 - Click Create repository.
 
-This whole procedure creates a repository on bitbucket for us same like we created a folder on our operating system  for us .
-But hold on see our repository is empty no data or file is in it if we see because same like creating a new folder it is empty. 
+This whole procedure creates a repository on bitbucket for us same like we created a folder on our operating systems .
+But hold on see our repository is empty no data or file is in it because like creating a new folder it is empty. 
 Now bitbucet give's us two options to use this repository .
 
 ## 1st Option: 
@@ -48,7 +48,7 @@ We clone(copy) this repository on our machine for that we have to select ( I'm s
 
 ## I'm starting from scratch
 
-Use these commands while first you have to go on the directory where you want to clone(copy) your repository.
+Use these commands in cmd or Terminal while first you have to go on the directory where you want to clone(copy) your repository in your operating syatem.
 
 - git clone ...... Ist command which you got on your browser window. It should be like https://xyz@bitbucket.org/xyz/repositoryName.git
 
