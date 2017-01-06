@@ -32,7 +32,7 @@ We have to create a repository for a new project on BitBucket .
 
 - Select Repositories from top nevigation bar and from drop down select Create Repository.
 
-- Give name and check Access Level if you want to make ur repository private (i select private because i want to make my repository private).
+- Give name and check Access Level if you want to make your repository private (i select private because i want to make my repository private).
 
 - Select Repository type as Git.
 
@@ -42,9 +42,39 @@ This whole procedure creates a repository on bitbucket for us same like we creat
 But hold on see our repository is empty no data or file is in it if we see because same like creating a new folder it is empty. 
 Now bitbucet give's us two ways to use this repository .
 
-- We clone(copy) this repository on our machine for that we select ( I have an existing project) .
+- We clone(copy) this repository on our machine for that we select ( I'm starting from scratch ) .
 
-- We first create a folder in our operating systema and save some data in form of files in it then save it to server means our newly created repository. This we can done by pushing here we called it commit. So we can commit our data on our repository. For that we select (I'm starting from scratch) . 
+- We first create a folder in our operating systema and save some data in form of files in it then save it to server means our newly created repository. This we can done by pushing here we called it commit. So we can commit our data on our repository. For that we select (I have an existing project) . 
+
+## I have an existing project
+
+I personally use this approach because for me ts little easy approach.
+
+- First created a folder and save a text file in it. 
+
+- Open cmd or Terminal and move on the folder which we created. (on windows like cd C:\Users\Waleed\Desktop\GitFolder).GitFolder is mine newly created folder.
+
+- Now use "init git" command to initialize the git.  
+
+- Now use command which is been displayed on second number by clicking "I have an existing project".
+
+- It may open a window to give your username & password if it will open then provide your data which you use on account creation time.
+
+- Now use command "git add --all".
+
+- Now use command "git commit -m "Any comment (Like i use My first GIT)".
+
+- Last command "git push origin master". 
+
+Origin word we use because on creation we have not changesd the origin to any other name if if did you we have to use the same name here too.
+This whole process send our data or you can say copy and here we use work commit our data on our created repository on the gitbucket. 
+After that we can see the status of the git by using "git status" command. 
+Now if you go on the repository and select your project you will see your commit with specififc id there and you can see what you commit and when too there. 
+
+
+
+
+
 
 
 
