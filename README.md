@@ -66,8 +66,8 @@ I personally use this approach because for me ts little easy approach.
 
 - Last command "git push origin master". 
 
-Origin word we use because on creation we have not changesd the origin to any other name if if did you we have to use the same name here too.
-This whole process send our data or you can say copy and here we use work commit our data on our created repository on the gitbucket. 
+Origin word we use because on creation we have not changesd the origin to any other name if you changed that before then you have to use the same name here too.
+This whole process send our data or you can say copy and here we use appropiate word 'commit' our data on our created repository on the gitbucket. 
 After that we can see the status of the git by using "git status" command. 
 Now if you go on the repository and select your project you will see your commit with specififc id there and you can see what you commit and when too there. 
 
