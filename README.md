@@ -53,7 +53,7 @@ Use these commands in cmd or Terminal while first you have to go on the director
 
 - First Go on the root directory of the folder where you want to clone(copy) your repository using cmd or Terminal on your operating system. Like i use cd on windows to my root directory. e.g  'cd C:\Users\usr_Name\Desktop\myfolder'
 
-- First initialize the git use git init.
+- First initialize the git use 'git init'.
 
 - Now use command which you got on your gitbucket website now. It should be like 'https://xyz@bitbucket.org/xyz/repositoryName.git'( In this process you may asked to provide your credientials like your user name or password so provide those which you used on creation of the directory).
 
@@ -82,7 +82,7 @@ I personally use this approach because for me ts little easy approach.
 
 - Open cmd or Terminal and move on the folder which we created. (on windows like cd C:\Users\Waleed\Desktop\GitFolder).GitFolder is mine newly created folder.
 
-- Now use "init git" command to initialize the git.  
+- Now use 'git init' command to initialize the git.  
 
 - Now use command which is been displayed on second number by clicking "I have an existing project".
 
