@@ -42,7 +42,9 @@ This whole procedure creates a repository on bitbucket for us same like we creat
 But hold on see our repository is empty no data or file is in it if we see because same like creating a new folder it is empty. 
 Now bitbucet give's us two ways to use this repository .
 
-- We clone(copy) this repository on our machine for that we have to select ( I'm starting from scratch ) from gitbucket.
+## 1st Option: 
+
+We clone(copy) this repository on our machine for that we have to select ( I'm starting from scratch ) from gitbucket.
 
 ## I'm starting from scratch
 
@@ -61,8 +63,9 @@ Use these commands while first you have to go on the directory where you want to
 - git push -u origin master
 
 
+## 2nd Option:
 
-- We first create a folder in our operating system and save some data in form of files in it then save it to server means our newly created repository and this we can do by 'pushing' called as 'commit'. So we can commit our data on our repository. For that we select (I have an existing project) . 
+We first create a folder in our operating system and save some data in form of files in it then save it to server means our newly created repository and this we can do by 'pushing' called as 'commit'. So we can commit our data on our repository. For that we select (I have an existing project) . 
 
 ## I have an existing project
 
