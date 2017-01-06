@@ -51,14 +51,14 @@ We clone(copy) this repository on our machine for that we have to select ( I'm s
 Use these commands in cmd or Terminal while first you have to go on the directory where you want to clone(copy) your repository in your operating syatem.
 
 
-- First Go on the root directory of the folder where you want to clone(copy) your repository using cmd or Terminal on your operating system. Like i use cd on windows to my root directory. e.g  'cd C:\Users\usr_Name\Desktop\myfolder'
+- Go on the root directory of the folder where you want to clone(copy) your repository using cmd or Terminal on your operating system. Like i use cd on windows to my root directory. e.g  'cd C:\Users\usr_Name\Desktop\myfolder'
 
-- First initialize the git use 'git init'.
+- Initialize the git use 'git init'.
 
-- Now use command which you got on your gitbucket website now. It should be like 'https://xyz@bitbucket.org/xyz/repositoryName.git'( In this process you may asked to provide your credientials like your user name or password so provide those which you used on creation of the directory).
+- Use command which you got on your gitbucket website now. It should be like 'https://xyz@bitbucket.org/xyz/repositoryName.git'( In this process you may asked to provide your credientials like your user name or password so provide those which you used on creation of the directory).
 
 
-- use second command from github website now.
+- Use second command from github website now.
 
 - echo "# My project's README" >> README.md
 
@@ -80,19 +80,19 @@ I personally use this approach because for me ts little easy approach.
 
 - First created a folder and save a text file in it. 
 
-- Open cmd or Terminal and move on the folder which we created. (on windows like cd C:\Users\Waleed\Desktop\GitFolder).GitFolder is mine newly created folder.
+- Open cmd or Terminal and move on the folder which we created. (on windows like cd C:....).
 
-- Now use 'git init' command to initialize the git.  
+- 'git init' command to initialize the git.  
 
-- Now use command which is been displayed on second number by clicking "I have an existing project".
+- Use second command which you got on your gitbucket website. It should be like 'https://xyz@bitbucket.org/xyz/repositoryName.git.
 
 - It may open a window to give your username & password if it will open then provide your data which you use on account creation time.
 
-- Now use command "git add --all".
+- "git add --all".
 
-- Now use command "git commit -m "Any comment (Like i use My first GIT)".
+- "git commit -m "Any comment (Like i use My first GIT)".
 
-- Last command "git push origin master". 
+-  "git push origin master". 
 
 Origin word we use because on creation we have not changesd the origin to any other name if you changed that before then you have to use the same name here too.
 This whole process send our data or you can say copy and here we use appropiate word 'commit' our data on our created repository on the gitbucket. 
